@@ -1,4 +1,4 @@
 # ClickableCoffeeShop
-A small incremental/clicker game I made in GMS2  for fun (2018).
+An incremental clicker game about building a coffee shop through upgrades, automation, and progression.
 
-Uploaded to Steam here: https://store.steampowered.com/app/1103920/Clickable_Coffee_Shop/
+Published to Steam here: https://store.steampowered.com/app/1103920/Clickable_Coffee_Shop/
